@@ -17,7 +17,7 @@ if os.path.exists("ipFile.txt") == False:
 if os.path.exists("iphub-info.txt") == True:
   bVPNApi = True
   strAPIKey = open("iphub-info.txt").readline().strip()
-  print("iphub-info.txt API exists. API will be used.")
+  print("iphub-info.txt API key exists. API will be used.")
 
 def getVPNStatus(ip):
   strLink = "http://v2.api.iphub.info/ip/" + ip.strip()

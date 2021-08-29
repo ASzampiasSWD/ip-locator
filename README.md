@@ -22,7 +22,7 @@ Steps:
 <pre>
 1. Register for an account on the website <a href="https://iphub.info/">https://iphub.info/</a>.
 2. Generate a <b>free</b> API key. This will let you make 1000 requests a day.
-3. Make a file called iphub-info.txt within the locateIps.py directory.
+3. Make a file called iphub-info.txt within the locateIPs.py directory.
 4. Paste the API key in the file.
 </pre>
 

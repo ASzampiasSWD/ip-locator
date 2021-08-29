@@ -25,3 +25,6 @@ Steps:
 3. Make a file called iphub-info.txt within the locateIps.py directory.
 4. Paste the API key in the file.
 </pre>
+
+## How-to Video
+[![How To Video](https://img.youtube.com/vi/IEl-kBQvutU/0.jpg)](https://www.youtube.com/watch?v=IEl-kBQvutU)
